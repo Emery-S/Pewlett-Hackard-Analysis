@@ -16,13 +16,11 @@ In looking at the data a a large percentage of the workforce will be retiring in
 ## Summary 
 ### Q&A about the "silver tsunami"
 How many roles will need to be filled as the "silver tsunami" begins to make an impact? 
-    
-    a total of 72,458 people are close to retirement leaving a extreme need for new employees. There are also only five managers currently employed with  two nearing the age for retirement. With nine departments and only three managers that will also be a vital area to take into account.
+    * a total of 72,458 people are close to retirement leaving a extreme need for new employees. There are also only five managers currently employed with  two nearing the age for retirement. With nine departments and only three managers that will also be a vital area to take into account.
 
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-    
-    No there are only 1,940 eligible mentors and 72,458 open job positions.
+    * No there are only 1,940 eligible mentors and 72,458 open job positions.
 
 ### Two additional queries
-* A table that takes a look at the number of retires from each department may provide more insight into which department will require extra assistance with their work load and subsequent hiring process.
+* A table that takes a look at the number of retirees from each department may provide more insight into which department will require extra assistance with their work load and subsequent hiring process.
 * A table that lists salary per job title and retiree would help the company determine what the new employees projected salry growth rate might look like and where to adjust salaries based on current and future economic changes.
